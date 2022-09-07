@@ -1,0 +1,31 @@
+[09/07/2022 18:08:44] Debug: Session id: e37da485-7713-4c30-bd1e-2bc6c7661012
+[09/07/2022 18:08:44] Debug: Code Processor information: Name :PythonSnowConvert, Version: 2.0.71.0
+[09/07/2022 18:08:45] Debug: Getting license
+[09/07/2022 18:08:45] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[09/07/2022 18:08:45] Info: Starting to validate parameters
+[09/07/2022 18:08:45] Info: Parameters to validate: 
+	Execution mode: Assessment
+	ConfidentialMode: true
+	LICENSE_KEY: 0d8f9a64-361d-49c9-8193-e7de7a4be5ac
+[09/07/2022 18:08:45] Info: Validation of parameters: Success
+[09/07/2022 18:08:45] Debug: Getting code descriptor
+[09/07/2022 18:08:45] Debug: Code descriptor information
+	Units: 606
+	Units type: LOC
+	All file bytes: 23012
+	All found extensions: .py
+[09/07/2022 18:08:45] Debug: Calculating fingerprint
+[09/07/2022 18:08:45] Debug: Fingerprint information Fingerprint(size=23012,projects=1)
+[09/07/2022 18:08:45] Info: Starting to try to validate online license for execution
+[09/07/2022 18:08:46] Debug: Getting license
+[09/07/2022 18:08:46] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[09/07/2022 18:08:46] Debug: Starting the execution of the controller
+[09/07/2022 18:08:47] Debug: Executing the worker: GenericScanner
+[09/07/2022 18:08:47] Debug: Finished executing the worker: GenericScanner
+[09/07/2022 18:08:48] Debug: Executing the worker: PythonSnowConvert
+[09/07/2022 18:08:54] Debug: Finished executing the worker: PythonSnowConvert
+[09/07/2022 18:08:55] Info: Controller execution ended

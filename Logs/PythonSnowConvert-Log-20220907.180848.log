@@ -1,0 +1,152 @@
+[09/07/2022 18:08:48] Debug: Session id: e37da485-7713-4c30-bd1e-2bc6c7661012
+[09/07/2022 18:08:48] Debug: Execution id: 23274965-84e7-4f1d-9e49-c64de57ff2a2
+[09/07/2022 18:08:48] Info: Starting to analyze the input path '/tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources'...
+[09/07/2022 18:08:48] Info: Found 17 PYTHON files with a total size of 22.47KB
+[09/07/2022 18:08:48] Info: Found 0 PYTHON files
+[09/07/2022 18:08:48] Info: Found 0 TOTAL files
+[09/07/2022 18:08:48] Info: Starting the parsing process of 17 files with 22.47KB of code, this might take a while...
+[09/07/2022 18:08:50] Info: EFProcess 637981709299933696 started
+[09/07/2022 18:08:50] Debug: TaskParam customMapDirectoryPath = 
+[09/07/2022 18:08:50] Debug: TaskParam mappingDictionaries = Mobilize.PythonSnow.Common.MappingDictionaries
+[09/07/2022 18:08:50] Debug: TaskParam LoadMappingsTask.Enabled = True
+[09/07/2022 18:08:50] Debug: TaskParam Repository = Value is not created.
+[09/07/2022 18:08:50] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:50] Debug: TaskParam parsedFilesCount = 0
+[09/07/2022 18:08:50] Debug: TaskParam parsingProgressDescriptor = Mobilize.Common.Utils.Progress.SingleProgressDescriptor
+[09/07/2022 18:08:50] Debug: TaskParam processingProgressDescriptor = Mobilize.Common.Utils.Progress.SingleProgressDescriptor
+[09/07/2022 18:08:50] Debug: TaskParam transformationVisitors = Value is not created.
+[09/07/2022 18:08:50] Debug: TaskParam ConversionBeginTask.Input = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/input.wsp
+[09/07/2022 18:08:50] Debug: TaskParam workingSet = Value is not created.
+[09/07/2022 18:08:50] Debug: TaskParam ConversionBeginTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[09/07/2022 18:08:50] Debug: TaskParam ConversionBeginTask.Enabled = True
+[09/07/2022 18:08:50] Debug: TaskParam Repository = Value is not created.
+[09/07/2022 18:08:50] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:50] Info: Step 2/8 - Loading Code: STARTED
+[09/07/2022 18:08:51] Info: Step 2/8 - Loading Code: COMPLETED
+[09/07/2022 18:08:51] Debug: TaskParam inputPath = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources
+[09/07/2022 18:08:51] Debug: TaskParam outputPath = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/Output/PythonSnowConvert
+[09/07/2022 18:08:51] Debug: TaskParam ExecutionModeValue = Assessment
+[09/07/2022 18:08:51] Debug: TaskParam codeModelWriter = Mobilize.Common.AssessmentModel.Writer.CodeModelWriter
+[09/07/2022 18:08:51] Debug: TaskParam ParsingErrorsTask.Input = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/input.wsp
+[09/07/2022 18:08:51] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[09/07/2022 18:08:51] Debug: TaskParam ParsingErrorsTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[09/07/2022 18:08:51] Debug: TaskParam ParsingErrorsTask.Enabled = True
+[09/07/2022 18:08:51] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[09/07/2022 18:08:51] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:51] Debug: TaskParam transformationVisitors = Value is not created.
+[09/07/2022 18:08:51] Debug: TaskParam inputPath = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources
+[09/07/2022 18:08:51] Debug: TaskParam SymbolTablePhase1Task.Input = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/input.wsp
+[09/07/2022 18:08:51] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[09/07/2022 18:08:51] Debug: TaskParam SymbolTablePhase1Task.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[09/07/2022 18:08:51] Debug: TaskParam SymbolTablePhase1Task.Enabled = True
+[09/07/2022 18:08:51] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[09/07/2022 18:08:51] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:51] Info: Step 4/8 - Symbol Table Phase 1: STARTED
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-count-distinct.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pandas-pyspark-dataframe.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-cast-column.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-add-month.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-change-string-double.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-column-operations.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-arraytype.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-aggregate.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-array-string.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-add-new-column.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-collect.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-create-dataframe-dictionary.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-broadcast-dataframe.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-convert_columns-to-map.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-convert-map-to-columns.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-create-dataframe.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-column-functions.py
+[09/07/2022 18:08:53] Info: Step 4/8 - Symbol Table Phase 1: COMPLETED
+[09/07/2022 18:08:53] Debug: TaskParam rootOutputPath = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813
+[09/07/2022 18:08:53] Debug: TaskParam shouldGenerateDump = False
+[09/07/2022 18:08:53] Debug: TaskParam symbolTable = Mobilize.Python.SymbolTable.PySymbolTable
+[09/07/2022 18:08:53] Debug: TaskParam symbolTableLoaderContext = Mobilize.Python.SymbolTable.PyLoaderContext
+[09/07/2022 18:08:53] Debug: TaskParam transformationVisitors = Artinsoft.Common.Tools.Transform.TransformationVisitors
+[09/07/2022 18:08:53] Debug: TaskParam inputPath = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources
+[09/07/2022 18:08:53] Debug: TaskParam pythonStdLibSources = Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource, Mobilize.Python.AST.PySource
+[09/07/2022 18:08:53] Debug: TaskParam SymbolTablePhase2Task.Input = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/input.wsp
+[09/07/2022 18:08:53] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[09/07/2022 18:08:53] Debug: TaskParam SymbolTablePhase2Task.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[09/07/2022 18:08:53] Debug: TaskParam SymbolTablePhase2Task.Enabled = True
+[09/07/2022 18:08:53] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[09/07/2022 18:08:53] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:53] Info: Step 5/8 - Symbol Table Phase 2: STARTED
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pandas-pyspark-dataframe.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-count-distinct.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-cast-column.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-column-operations.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-add-month.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-change-string-double.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-aggregate.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-arraytype.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-array-string.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-add-new-column.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-create-dataframe-dictionary.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-collect.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-broadcast-dataframe.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-convert_columns-to-map.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-convert-map-to-columns.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-create-dataframe.py
+[09/07/2022 18:08:53] Debug: Processing File: /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/CLI_PythonQT_Only_Code/pyspark-column-functions.py
+[09/07/2022 18:08:53] Info: Step 5/8 - Symbol Table Phase 2: COMPLETED
+[09/07/2022 18:08:53] Debug: TaskParam reportPath = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/Reports/PythonSnowConvert
+[09/07/2022 18:08:53] Debug: TaskParam sessionId = e37da485-7713-4c30-bd1e-2bc6c7661012
+[09/07/2022 18:08:53] Debug: TaskParam preConversionAssessmentStorage = Mobilize.PythonSnow.Assessment.SparkUsagesInventoryStorage
+[09/07/2022 18:08:53] Debug: TaskParam importUsagesInventoryStorage = Mobilize.PythonSnow.Assessment.ImportUsagesInventoryStorage
+[09/07/2022 18:08:53] Debug: TaskParam packageVersionsInventoryStorage = Mobilize.PythonSnow.Assessment.PackageVersionsInventoryStorage
+[09/07/2022 18:08:53] Debug: TaskParam symbolTable = Mobilize.Python.SymbolTable.PySymbolTable
+[09/07/2022 18:08:53] Debug: TaskParam transformationVisitors = Artinsoft.Common.Tools.Transform.TransformationVisitors
+[09/07/2022 18:08:53] Debug: TaskParam inputPath = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources
+[09/07/2022 18:08:53] Debug: TaskParam mappingDictionaries = Mobilize.PythonSnow.Common.MappingDictionaries
+[09/07/2022 18:08:53] Debug: TaskParam conversionStatusData = Mobilize.SparkCommon.Contracts.Assessment.ConversionStatus.ConversionStatusData
+[09/07/2022 18:08:53] Debug: TaskParam PreConversionAssessmentTask.Input = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/input.wsp
+[09/07/2022 18:08:53] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[09/07/2022 18:08:53] Debug: TaskParam PreConversionAssessmentTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[09/07/2022 18:08:53] Debug: TaskParam PreConversionAssessmentTask.Enabled = True
+[09/07/2022 18:08:53] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[09/07/2022 18:08:53] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:53] Info: Step 6/8 - Pre-Conversion Assessment: STARTED
+[09/07/2022 18:08:53] Info: Step 6/8 - Pre-Conversion Assessment: COMPLETED
+[09/07/2022 18:08:53] Debug: TaskParam ExecutionModeValue = Assessment
+[09/07/2022 18:08:53] Debug: TaskParam codeModelWriter = Mobilize.Common.AssessmentModel.Writer.CodeModelWriter
+[09/07/2022 18:08:53] Debug: TaskParam symbolTable = Mobilize.Python.SymbolTable.PySymbolTable
+[09/07/2022 18:08:53] Debug: TaskParam inputPath = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources
+[09/07/2022 18:08:53] Debug: TaskParam outputPath = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/Output/PythonSnowConvert
+[09/07/2022 18:08:53] Debug: TaskParam processingProgressDescriptor = Mobilize.Common.Utils.Progress.SingleProgressDescriptor
+[09/07/2022 18:08:53] Debug: TaskParam transformationVisitors = Artinsoft.Common.Tools.Transform.TransformationVisitors
+[09/07/2022 18:08:53] Debug: TaskParam TransformationsTask.Input = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources/input.wsp
+[09/07/2022 18:08:53] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[09/07/2022 18:08:53] Debug: TaskParam TransformationsTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[09/07/2022 18:08:53] Debug: TaskParam TransformationsTask.Enabled = True
+[09/07/2022 18:08:53] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[09/07/2022 18:08:53] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:53] Info: Step 7/8 - Conversion Execution: STARTED
+[09/07/2022 18:08:53] Info: Step 7/8 - Conversion Execution: COMPLETED
+[09/07/2022 18:08:53] Debug: TaskParam initialTime = 09/07/2022 18:08:48
+[09/07/2022 18:08:53] Debug: TaskParam preConversionAssessmentStorage = Mobilize.PythonSnow.Assessment.SparkUsagesInventoryStorage
+[09/07/2022 18:08:53] Debug: TaskParam issuesReader = Mobilize.PythonSnow.Common.IssuesReader
+[09/07/2022 18:08:53] Debug: TaskParam genericScannerReader = Mobilize.PythonSnow.Reports.GenericScannerReader
+[09/07/2022 18:08:53] Debug: TaskParam pythonSnowExecutionResult = Mobilize.PythonSnow.Configuration.Models.PythonSnowExecutionResult
+[09/07/2022 18:08:53] Debug: TaskParam assessmentManager = Mobilize.SparkCommon.Reports.AssessmentManager
+[09/07/2022 18:08:53] Debug: TaskParam usagesCalculator = Mobilize.SparkCommon.Reports.SparkUsagesCalculator
+[09/07/2022 18:08:53] Debug: TaskParam inputPath = /tmp/Repo-78127959-f337-4cf6-a854-dcbe9479f813/Sources
+[09/07/2022 18:08:53] Debug: TaskParam assessmentReportSummaryInformation = Mobilize.SparkCommon.Reports.AssessmentReportSummaryInformation
+[09/07/2022 18:08:53] Debug: TaskParam writeResultsProgressDescriptor = Mobilize.Common.Utils.Progress.SingleProgressDescriptor
+[09/07/2022 18:08:53] Debug: TaskParam ConversionEndTask.Enabled = True
+[09/07/2022 18:08:53] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[09/07/2022 18:08:53] Debug: TaskParam RepositoryDirectory = /tmp/Output-78127959-f337-4cf6-a854-dcbe9479f813/.mobilize/CommonEF
+[09/07/2022 18:08:53] Info: Step 8/8 - Cleanup: STARTED
+[09/07/2022 18:08:53] Info: EFProcess 637981709299933696 ended. Excecution time: 00:00:03.8881088
+[09/07/2022 18:08:53] Info: Reports generation: STARTED
+[09/07/2022 18:08:53] Info: Reports generation: STARTED
+[09/07/2022 18:08:53] Info: Start docx assessment report generation
+[09/07/2022 18:08:53] Info: Writing the docx assessment report
+[09/07/2022 18:08:54] Info: Finish docx assessment report generation
+[09/07/2022 18:08:54] Info: Start html assessment report generation
+[09/07/2022 18:08:54] Info: Building the inventory for html report
+[09/07/2022 18:08:54] Info: Writing the html assessment report
+[09/07/2022 18:08:54] Info: Finish html assessment report generation
+[09/07/2022 18:08:54] Info: Reports generation: COMPLETED
